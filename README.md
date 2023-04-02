@@ -3,8 +3,8 @@ Data Science/ Data Analyst Portfolio
 
 ## Blind face (Object detection for blind people): Haar cascades feature extraction, OPENCV
 
---> Developed a cutting-edge system utilizing OpenCV, deep learning techniques, and Convolutional Neural Networks to aid visually impaired individuals in navigation and mobility. 
---> Utilized image processing with advanced convolutional neural network models to classify objects and persons, enabling the system to detect and provide real-time feedback to the user. 
+* Developed a cutting-edge system utilizing OpenCV, deep learning techniques, and Convolutional Neural Networks to aid visually impaired individuals in navigation and mobility. 
+* Utilized image processing with advanced convolutional neural network models to classify objects and persons, enabling the system to detect and provide real-time feedback to the user. 
 --> Employed Haar cascades Classifier to identify facial expressions and enhance the system's capabilities.
 --> Demonstrated a deep understanding of deep learning techniques and their application in computer vision to create a practical solution that can significantly improve the lives of visually impaired individuals.
 
