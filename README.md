@@ -41,7 +41,7 @@ Data Science/ Data Analyst Portfolio
 *	Gathered the lateral images of the people while using the mobile phone in different positions (sitting and standing), 
 *	Employed the Orbbec camera, an automated python script to take images with one click. 
 *	Accomplished Data labelling using CVAT(Computer Vision Annotation Tool).
-*	In future, we will train a Machine Learning model on these collected images to predict whether individual’s position is good or bad while using mobile phones.
+
 
 
 
